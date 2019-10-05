@@ -1,0 +1,13 @@
+{
+
+  "id" : "CP 104",
+  "teachers":[
+    {
+      "name" : "David Brown"
+    },
+    {
+      "name" : "Qutaiba Albluwi"
+    }
+  ],
+  "desc" : "Insert course description"
+}
